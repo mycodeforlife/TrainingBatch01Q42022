@@ -1,3 +1,7 @@
+"""
+description:
+"""
+
 n=int(input("Please enter the n value:"))
 for i in range(1,n):
     for j in range(1,i+1):
