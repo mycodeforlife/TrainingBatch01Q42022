@@ -1,0 +1,4 @@
+insert int zone_table values (zip_code, zone_id) values (99270 'Z1')
+insert int zone_table values (zip_code, zone_id) values (98168 'Z2')
+insert int zone_table values (zip_code, zone_id) values (99271 'Z4')
+insert int zone_table values (zip_code, zone_id) values (98169 'Z5')
