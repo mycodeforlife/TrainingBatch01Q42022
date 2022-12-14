@@ -1,0 +1,2 @@
+Insert into Zone_table (Zipcode,Zone_id) values (99270,'Z1');
+Insert into Zone_table (Zipcode,Zone_id) values (98168,'Z2');
