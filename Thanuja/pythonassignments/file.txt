@@ -7,3 +7,5 @@ studentID  studentmarks
 104             20
 110             30
 111             70
+112             45
+             
