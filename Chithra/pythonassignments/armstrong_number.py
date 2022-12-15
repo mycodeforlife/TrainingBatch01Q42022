@@ -1,5 +1,6 @@
 
 #armstrong Number#
+
 n=input("Please enter the n value:")
 x =len(n)
 a = 0
@@ -12,3 +13,5 @@ if (a == int(n)):
     print(n, "is an armstrong number")
 else:
     print(n, "is not an armstrong number")
+
+#done#
