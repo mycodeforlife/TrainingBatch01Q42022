@@ -1,4 +1,4 @@
-cal = input("enter what arthamatic operation you want to do add,sub,mul and div")
+cal = input("enter what arthamatic operation you want to do add,sub,mul and div: ")
 value_type =input( "enter what type of athamatic operation you want int or float : ")
 
 
@@ -16,17 +16,17 @@ def multiplication(value3, value4):
 
 
 def div_two(value1, value2):
-    return value1 // value2
+    return value1 / value2
 
 
-x = input("enter the value for addition: ")
-y = input("enter the value for subtraction: ")
+x = input("enter the value1: ")
+y = input("enter the value2: ")
 
-if value_type == int:
+if value_type == "int":
     x = int(x)
     y = int(y)
 else:
-    value_type == float
+    value_type == "float"
     x = float(x)
     y = float(y)
 
