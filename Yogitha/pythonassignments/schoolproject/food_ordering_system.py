@@ -36,12 +36,13 @@ print("printing Full Time employee details")
 data_set = db.get_employee_info("Full-time")
 for each_data in data_set:
     print(each_data)
-
+print()
 print("printing orderno orderstable")
-order_data_set = db.get_order_details("A1")
+order_data_set = db.get_order_details("B5")
 for each_data in order_data_set:
     print("printing order details")
     print(each_data)
+
 
 
 
