@@ -4,6 +4,7 @@ import mysql.connector
 
 
 class DataProcessor:
+    country = "null"
     db_server = "3306"
     db_connection = mysql.connector.connect(host="localhost", user="root", password="admin20")
 
@@ -19,6 +20,8 @@ where country = '{country}');''')
 
     def convert_data(self, data_to_process):
         city_name_map = {}
+        country = {"city": "India"}
+        city_name_map.update(country)
         for each_row in data_to_process:
             city_name_map[each_row[0]] = each_row[1]
         return city_name_map
