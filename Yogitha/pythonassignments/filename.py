@@ -29,3 +29,22 @@ updated_file_info = file_extension_change.get_updated_file_names()
 updated_file_info1 = file_extension_change1.get_updated_file_names()
 print(updated_file_info)
 print(updated_file_info1)
+
+# class A
+# int x,y;
+#
+#     A(int a, int b)
+#     this.x=a;
+#     this.y=b;
+#
+#     add(){
+#     int res= x+y;
+#
+# sub(){
+#     int res=x-y;
+# }
+# }
+#
+#     A a = new A(10,20)
+# a.add()
+# a.sub()
