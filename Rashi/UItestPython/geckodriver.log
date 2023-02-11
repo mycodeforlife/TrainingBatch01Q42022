@@ -1,0 +1,405 @@
+1676079027616	geckodriver	INFO	Listening on 127.0.0.1:60539
+1676079030728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60540" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileKp5NZK"
+1676079034496	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676079034508	Marionette	INFO	Listening on port 60563
+Read port: 60563
+WebDriver BiDi listening on ws://127.0.0.1:60540
+1676079035123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileKp5NZK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60540/devtools/browser/a670a42f-252e-46a9-9aab-7692ed797b06
+JavaScript warning: https://www.amazon.com/ line 2225 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676079086098	Marionette	INFO	Stopped listening on port 60563
+Dynamically enable window occlusion 1
+1676079635553	geckodriver	INFO	Listening on 127.0.0.1:60873
+1676079638641	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60874" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileXSqfSp"
+1676079639072	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676079639076	Marionette	INFO	Listening on port 60881
+Read port: 60881
+WebDriver BiDi listening on ws://127.0.0.1:60874
+1676079639191	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileXSqfSp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60874/devtools/browser/353483f3-7535-42a5-ac1c-c914d9c081a5
+JavaScript warning: https://www.amazon.com/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676079743865	geckodriver	INFO	Listening on 127.0.0.1:61065
+1676079746991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61066" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilesZJkBo"
+1676079747440	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676079747443	Marionette	INFO	Listening on port 61075
+Read port: 61075
+WebDriver BiDi listening on ws://127.0.0.1:61066
+1676079747594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilesZJkBo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61066/devtools/browser/b23b7795-e163-4d86-a9f5-db05c7dee5fc
+JavaScript warning: https://www.amazon.com/ line 2227 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676079781295	Marionette	INFO	Stopped listening on port 61075
+Dynamically enable window occlusion 1
+1676080245173	geckodriver	INFO	Listening on 127.0.0.1:61323
+1676080248265	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61324" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileOBrqMZ"
+1676080248779	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676080248783	Marionette	INFO	Listening on port 61333
+Read port: 61333
+WebDriver BiDi listening on ws://127.0.0.1:61324
+1676080249002	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileOBrqMZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61324/devtools/browser/75185d03-c5a2-4ca9-aee3-4192d1ecb34b
+JavaScript warning: https://www.amazon.com/ line 2228 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676080257251	Marionette	INFO	Stopped listening on port 61333
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1676080974608	geckodriver	INFO	Listening on 127.0.0.1:61622
+1676080977674	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61623" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofile9xNJwa"
+1676080978111	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676080978115	Marionette	INFO	Listening on port 61630
+Read port: 61630
+WebDriver BiDi listening on ws://127.0.0.1:61623
+1676080978234	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofile9xNJwa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61623/devtools/browser/dc68cc22-7dcc-4d21-bfbb-3259050d93c3
+1676080986789	Marionette	INFO	Stopped listening on port 61630
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1676088001215	geckodriver	INFO	Listening on 127.0.0.1:50032
+1676088004323	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50033" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileZNOWno"
+1676088007428	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676088007440	Marionette	INFO	Listening on port 50041
+Read port: 50041
+WebDriver BiDi listening on ws://127.0.0.1:50033
+1676088008096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileZNOWno\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50033/devtools/browser/fc76bd42-4483-4d20-860e-7a9de69c073b
+JavaScript warning: https://www.amazon.com/ line 2228 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676088017836	Marionette	INFO	Stopped listening on port 50041
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1676088448916	geckodriver	INFO	Listening on 127.0.0.1:50190
+1676088451996	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50191" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileEVVHuR"
+1676088452283	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676088452286	Marionette	INFO	Listening on port 50198
+Read port: 50198
+WebDriver BiDi listening on ws://127.0.0.1:50191
+1676088452491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileEVVHuR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50191/devtools/browser/70f54b14-d5aa-4a25-ac23-108895f3ef27
+1676088459986	Marionette	INFO	Stopped listening on port 50198
+Dynamically enable window occlusion 1
+JavaScript warning: https://www.amazon.com/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 587: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1676088521793	geckodriver	INFO	Listening on 127.0.0.1:50277
+1676088524914	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50278" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilemN5FFz"
+1676088525201	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676088525204	Marionette	INFO	Listening on port 50285
+Read port: 50285
+WebDriver BiDi listening on ws://127.0.0.1:50278
+1676088525329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilemN5FFz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50278/devtools/browser/64ffbad8-4a83-4d8a-aa09-64e2aa1475f2
+JavaScript warning: https://www.amazon.com/ line 2221 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676088531566	Marionette	INFO	Stopped listening on port 50285
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+[Parent 1828, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1676088800835	geckodriver	INFO	Listening on 127.0.0.1:50605
+1676088803893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50606" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofile572nd0"
+1676088804249	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676088804253	Marionette	INFO	Listening on port 50613
+Read port: 50613
+WebDriver BiDi listening on ws://127.0.0.1:50606
+1676088804395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofile572nd0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50606/devtools/browser/82629706-1f2e-4c9b-a887-06726d0e247c
+JavaScript warning: https://www.amazon.com/ line 2234 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/8190qjYC-jL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676089078221	Marionette	INFO	Stopped listening on port 50613
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50813" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileJfs1z8"
+1676088885046	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676088885050	Marionette	INFO	Listening on port 50820
+Read port: 50820
+WebDriver BiDi listening on ws://127.0.0.1:50813
+1676088885206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileJfs1z8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50813/devtools/browser/4cb45150-37f9-491b-8c68-a5b7536494b0
+JavaScript warning: https://www.amazon.com/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676088896465	Marionette	INFO	Stopped listening on port 50820
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1676088916802	geckodriver	INFO	Listening on 127.0.0.1:50990
+1676088919862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50991" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileTwG9Sp"
+1676088920149	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676088920153	Marionette	INFO	Listening on port 50998
+Read port: 50998
+WebDriver BiDi listening on ws://127.0.0.1:50991
+1676088920321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileTwG9Sp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50991/devtools/browser/2d0518a3-7a16-459c-baf4-e50ef2dedfdb
+JavaScript warning: https://www.amazon.com/ line 2234 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/8190qjYC-jL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676089077246	Marionette	INFO	Stopped listening on port 50998
+Dynamically enable window occlusion 1
+1676089136214	geckodriver	INFO	Listening on 127.0.0.1:51193
+1676089139286	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51194" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilerFUkQQ"
+1676089139589	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676089139592	Marionette	INFO	Listening on port 51201
+Read port: 51201
+WebDriver BiDi listening on ws://127.0.0.1:51194
+1676089139746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilerFUkQQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51194/devtools/browser/f9fcf3c2-d2b2-4e02-9767-b9e4b25801ec
+JavaScript warning: https://www.amazon.com/ line 2232 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676089150194	Marionette	INFO	Stopped listening on port 51201
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1676089391093	geckodriver	INFO	Listening on 127.0.0.1:51305
+1676089394159	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51306" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileDZguNF"
+1676089394459	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676089394463	Marionette	INFO	Listening on port 51313
+Read port: 51313
+WebDriver BiDi listening on ws://127.0.0.1:51306
+1676089394653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileDZguNF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51306/devtools/browser/f98ecbf5-923a-4431-be2a-f3bf2eb76163
+JavaScript warning: https://www.amazon.com/ line 2226 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676089402178	Marionette	INFO	Stopped listening on port 51313
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+console.error: (new AbortError("IndexedDB: main/doh-config list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1676089454259	geckodriver	INFO	Listening on 127.0.0.1:51385
+1676089457336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51386" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofile5qalkT"
+1676089457620	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676089457624	Marionette	INFO	Listening on port 51393
+Read port: 51393
+WebDriver BiDi listening on ws://127.0.0.1:51386
+1676089457760	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofile5qalkT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51386/devtools/browser/22ca6ff0-c539-4260-afec-c80689ebe113
+JavaScript warning: https://www.amazon.com/ line 2234 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676089463538	Marionette	INFO	Stopped listening on port 51393
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1676089606297	geckodriver	INFO	Listening on 127.0.0.1:51471
+1676089609354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51472" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileTU9WFD"
+1676089609636	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676089609639	Marionette	INFO	Listening on port 51479
+Read port: 51479
+WebDriver BiDi listening on ws://127.0.0.1:51472
+1676089609756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileTU9WFD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51472/devtools/browser/c92af235-fd7c-4384-80e6-a6d741faffcc
+JavaScript warning: https://www.amazon.com/ line 2226 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676089615859	Marionette	INFO	Stopped listening on port 51479
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1676089717638	geckodriver	INFO	Listening on 127.0.0.1:51549
+1676089720682	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51550" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilekS91DC"
+1676089720985	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676089720989	Marionette	INFO	Listening on port 51557
+Read port: 51557
+WebDriver BiDi listening on ws://127.0.0.1:51550
+1676089721121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilekS91DC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51550/devtools/browser/4f7b320c-45a5-42d0-8e34-6738b17ffe88
+JavaScript warning: https://www.amazon.com/ line 2228 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676089728662	Marionette	INFO	Stopped listening on port 51557
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1676089756242	geckodriver	INFO	Listening on 127.0.0.1:51645
+1676089759326	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51646" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilePmqvKb"
+1676089759607	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676089759611	Marionette	INFO	Listening on port 51653
+Read port: 51653
+WebDriver BiDi listening on ws://127.0.0.1:51646
+1676089760029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilePmqvKb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51646/devtools/browser/d641615e-27bb-4a4c-83a1-b4f6e69e70e1
+JavaScript warning: https://www.amazon.com/ line 2227 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676089765115	Marionette	INFO	Stopped listening on port 51653
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1676089821360	geckodriver	INFO	Listening on 127.0.0.1:51732
+1676089824439	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51733" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileEoWuW7"
+1676089824738	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676089824741	Marionette	INFO	Listening on port 51740
+Read port: 51740
+WebDriver BiDi listening on ws://127.0.0.1:51733
+1676089825112	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileEoWuW7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51733/devtools/browser/9f5bd402-71ba-4b2f-8051-a4e26dfce29c
+JavaScript warning: https://www.amazon.com/ line 2263 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676089830656	Marionette	INFO	Stopped listening on port 51740
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1676089835243	geckodriver	INFO	Listening on 127.0.0.1:51815
+1676089838297	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51816" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofile0bPTGo"
+1676089838611	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676089838614	Marionette	INFO	Listening on port 51823
+Read port: 51823
+WebDriver BiDi listening on ws://127.0.0.1:51816
+1676089839032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofile0bPTGo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51816/devtools/browser/1087b540-41d5-446b-ae0e-a48062174d85
+JavaScript warning: https://www.amazon.com/ line 2226 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676089844335	Marionette	INFO	Stopped listening on port 51823
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 587: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1676089955382	geckodriver	INFO	Listening on 127.0.0.1:51900
+1676089958449	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51901" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileK2WPqx"
+1676089958722	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676089958727	Marionette	INFO	Listening on port 51908
+Read port: 51908
+WebDriver BiDi listening on ws://127.0.0.1:51901
+1676089959207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileK2WPqx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51901/devtools/browser/06573a66-ae88-4f16-9595-fda49c6550c8
+JavaScript warning: https://www.amazon.com/ line 2220 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676089965270	Marionette	INFO	Stopped listening on port 51908
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1676089970342	geckodriver	INFO	Listening on 127.0.0.1:51982
+1676089973380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51983" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilekwBGq6"
+1676089973699	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676089973703	Marionette	INFO	Listening on port 51990
+Read port: 51990
+WebDriver BiDi listening on ws://127.0.0.1:51983
+1676089973847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilekwBGq6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51983/devtools/browser/b78af9c7-262c-4ba8-a775-e6da40452e0a
+JavaScript warning: https://www.amazon.com/ line 2227 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676089979428	Marionette	INFO	Stopped listening on port 51990
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+[Parent 4576, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1676090056345	geckodriver	INFO	Listening on 127.0.0.1:52063
+1676090059435	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52064" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilet2YYGa"
+1676090059714	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676090059718	Marionette	INFO	Listening on port 52071
+Read port: 52071
+WebDriver BiDi listening on ws://127.0.0.1:52064
+1676090060130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilet2YYGa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52064/devtools/browser/24158b8c-a60d-42db-9593-f80b2420da05
+JavaScript warning: https://www.amazon.com/ line 2227 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676090065033	Marionette	INFO	Stopped listening on port 52071
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1676090069523	geckodriver	INFO	Listening on 127.0.0.1:52139
+1676090072582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52140" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileuHhSt2"
+1676090072895	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676090072899	Marionette	INFO	Listening on port 52147
+Read port: 52147
+WebDriver BiDi listening on ws://127.0.0.1:52140
+1676090073069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileuHhSt2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52140/devtools/browser/99f14e01-52bf-4dad-a9de-5122da1765be
+JavaScript warning: https://www.amazon.com/ line 928 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676090077679	Marionette	INFO	Stopped listening on port 52147
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+console.error: (new AbortError("IndexedDB: main/doh-providers list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new AbortError("IndexedDB: main/search-telemetry-v2 list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new AbortError("IndexedDB: main/search-config list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new AbortError("IndexedDB: main/url-classifier-skip-urls list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new AbortError("IndexedDB: blocklists/gfx list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new AbortError("IndexedDB: main/top-sites list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new Error("IndexedDB: main/doh-config getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+1676090081865	geckodriver	INFO	Listening on 127.0.0.1:52219
+1676090084905	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52220" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileJgSssj"
+1676090085318	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676090085322	Marionette	INFO	Listening on port 52227
+Read port: 52227
+WebDriver BiDi listening on ws://127.0.0.1:52220
+1676090085449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileJgSssj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52220/devtools/browser/3a5e955a-8575-4d58-b5d6-829039bc1218
+JavaScript warning: https://www.amazon.com/ line 2243 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676090091214	Marionette	INFO	Stopped listening on port 52227
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1676090842211	geckodriver	INFO	Listening on 127.0.0.1:52339
+1676090845270	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52340" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilem2bmO7"
+1676090845548	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676090845553	Marionette	INFO	Listening on port 52347
+Read port: 52347
+WebDriver BiDi listening on ws://127.0.0.1:52340
+1676090845690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilem2bmO7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52340/devtools/browser/f98142da-0253-4704-a2b2-f8dc8661029a
+JavaScript warning: https://www.amazon.com/ line 2227 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676090852301	Marionette	INFO	Stopped listening on port 52347
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1676090857160	geckodriver	INFO	Listening on 127.0.0.1:52433
+1676090860214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52434" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileJ2FlA4"
+1676090860499	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676090860503	Marionette	INFO	Listening on port 52441
+Read port: 52441
+WebDriver BiDi listening on ws://127.0.0.1:52434
+1676090861022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileJ2FlA4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52434/devtools/browser/ea12e2aa-cbf5-445d-b1fe-a185ada6db5b
+JavaScript warning: https://www.amazon.com/ line 2227 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676090866743	Marionette	INFO	Stopped listening on port 52441
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1676090871212	geckodriver	INFO	Listening on 127.0.0.1:52513
+1676090874260	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52514" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileZqDMpT"
+1676090874543	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676090874547	Marionette	INFO	Listening on port 52521
+Read port: 52521
+WebDriver BiDi listening on ws://127.0.0.1:52514
+1676090874898	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileZqDMpT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52514/devtools/browser/ddf33888-11e1-4118-8e20-d56f8783df76
+JavaScript warning: https://www.amazon.com/ line 2227 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676090880129	Marionette	INFO	Stopped listening on port 52521
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed

@@ -1,3 +1,7 @@
+"""
+this script will generate * tree for different patterns
+
+"""
 
 n=int(input("Please enter the n value:"))
 for i in range(0,n):

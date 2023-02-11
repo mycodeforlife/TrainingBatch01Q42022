@@ -1,0 +1,109 @@
+1676058692676	geckodriver	INFO	Listening on 127.0.0.1:52530
+1676058695754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52531" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pcchi\\AppData\\Local\\Temp\\rust_mozprofileb8DvoF"
+1676058696003	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676058696007	Marionette	INFO	Listening on port 52541
+WebDriver BiDi listening on ws://127.0.0.1:52531
+Read port: 52541
+1676058696198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pcchi\\AppData\\Local\\Temp\\rust_mozprofileb8DvoF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52531/devtools/browser/2618fbe5-4814-4b66-acb5-db296d5bc4cc
+JavaScript warning: https://www.amazon.com/ line 2226 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676058714152	Marionette	INFO	Stopped listening on port 52541
+Dynamically enable window occlusion 1
+1676058766595	geckodriver	INFO	Listening on 127.0.0.1:52739
+1676058769659	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52740" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pcchi\\AppData\\Local\\Temp\\rust_mozprofileQwI2zY"
+1676058769889	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676058769892	Marionette	INFO	Listening on port 52753
+WebDriver BiDi listening on ws://127.0.0.1:52740
+Read port: 52753
+1676058770094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pcchi\\AppData\\Local\\Temp\\rust_mozprofileQwI2zY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52740/devtools/browser/26a629ca-665b-4e56-9cec-1affeb03a041
+JavaScript warning: https://www.amazon.com/ line 928 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676058787968	Marionette	INFO	Stopped listening on port 52753
+Dynamically enable window occlusion 1
+1676058994371	geckodriver	INFO	Listening on 127.0.0.1:52927
+1676058997439	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52928" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pcchi\\AppData\\Local\\Temp\\rust_mozprofileKog4lZ"
+1676058997672	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676058997675	Marionette	INFO	Listening on port 52935
+WebDriver BiDi listening on ws://127.0.0.1:52928
+Read port: 52935
+1676058997878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pcchi\\AppData\\Local\\Temp\\rust_mozprofileKog4lZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52928/devtools/browser/aa670990-fbbd-4e33-9733-21c21850f038
+JavaScript warning: https://www.amazon.com/ line 2225 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676059001152	Marionette	INFO	Stopped listening on port 52935
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1676059023814	geckodriver	INFO	Listening on 127.0.0.1:53011
+1676059026873	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53012" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pcchi\\AppData\\Local\\Temp\\rust_mozprofile15yTrw"
+1676059027110	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676059027113	Marionette	INFO	Listening on port 53020
+WebDriver BiDi listening on ws://127.0.0.1:53012
+Read port: 53020
+1676059027305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pcchi\\AppData\\Local\\Temp\\rust_mozprofile15yTrw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53012/devtools/browser/588e1aa4-0e21-4d16-83d5-bc499c02fd3e
+1676059030181	Marionette	INFO	Stopped listening on port 53020
+Dynamically enable window occlusion 1
+JavaScript warning: https://www.amazon.com/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1676059269089	geckodriver	INFO	Listening on 127.0.0.1:53166
+1676059272128	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53167" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pcchi\\AppData\\Local\\Temp\\rust_mozprofileRWdn3s"
+1676059272389	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676059272392	Marionette	INFO	Listening on port 53180
+Read port: 53180
+WebDriver BiDi listening on ws://127.0.0.1:53167
+1676059272520	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pcchi\\AppData\\Local\\Temp\\rust_mozprofileRWdn3s\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53167/devtools/browser/95c45c3d-7738-4289-8419-1c76765681c9
+JavaScript warning: https://www.amazon.com/ line 2223 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676059276061	Marionette	INFO	Stopped listening on port 53180
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1676059379405	geckodriver	INFO	Listening on 127.0.0.1:53309
+1676059382489	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53310" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pcchi\\AppData\\Local\\Temp\\rust_mozprofileD4vLEP"
+1676059382759	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676059382768	Marionette	INFO	Listening on port 53318
+Read port: 53318
+WebDriver BiDi listening on ws://127.0.0.1:53310
+1676059382892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pcchi\\AppData\\Local\\Temp\\rust_mozprofileD4vLEP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53310/devtools/browser/5fec6cc5-9979-4e98-8579-b7ef59d86199
+1676059386857	Marionette	INFO	Stopped listening on port 53318
+Dynamically enable window occlusion 1
+JavaScript warning: https://www.amazon.com/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1676059390380	geckodriver	INFO	Listening on 127.0.0.1:53416
+1676059393460	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53417" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pcchi\\AppData\\Local\\Temp\\rust_mozprofilen2T2Vb"
+1676059393704	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676059393707	Marionette	INFO	Listening on port 53430
+WebDriver BiDi listening on ws://127.0.0.1:53417
+Read port: 53430
+1676059393897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pcchi\\AppData\\Local\\Temp\\rust_mozprofilen2T2Vb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53417/devtools/browser/f65f167f-5cbc-41b7-8068-d4809b525559
+1676059397071	Marionette	INFO	Stopped listening on port 53430
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+JavaScript warning: https://www.amazon.com/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676059573316	geckodriver	INFO	Listening on 127.0.0.1:53541
+1676059576368	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53542" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pcchi\\AppData\\Local\\Temp\\rust_mozprofilefeANVd"
+1676059576562	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676059576565	Marionette	INFO	Listening on port 53549
+Read port: 53549
+WebDriver BiDi listening on ws://127.0.0.1:53542
+1676059576644	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pcchi\\AppData\\Local\\Temp\\rust_mozprofilefeANVd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53542/devtools/browser/fddf2ff3-c625-4b8e-aa91-293bedd74979
+1676059580366	Marionette	INFO	Stopped listening on port 53549
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
