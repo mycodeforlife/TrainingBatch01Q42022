@@ -10,7 +10,7 @@ class DataProcessor:
         self.db_connection = mysql.connector.connect(host="localhost", user="root", password="admin20")
 
     def get_employee_info(self, jtype):
-        select_query = "select * from foodorderingsystem.employeetable where Jobtype='"+jtype+"';"
+        select_query = "select * from foodorderingsystem.employeetable where Jobtype ='"+jtype+"';"
         print(select_query)
         db_pointer = self.db_connection.cursor()
         db_pointer.execute(select_query)
