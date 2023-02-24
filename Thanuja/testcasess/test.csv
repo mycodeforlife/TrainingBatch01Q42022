@@ -1,0 +1,4 @@
+TestCaseID,URL,Expected_Results
+1,https:\\amazon.com,Amazon.com
+2,https:\\ebay.com,Ebay.com
+3,https:\\Facebook.com,facebook.com

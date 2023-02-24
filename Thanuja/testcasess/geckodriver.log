@@ -1,0 +1,290 @@
+1676271446202	geckodriver	INFO	Listening on 127.0.0.1:51867
+1676271449264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51868" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofileWXxblZ"
+1676271450226	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676271450240	Marionette	INFO	Listening on port 51876
+Read port: 51876
+WebDriver BiDi listening on ws://127.0.0.1:51868
+1676271450521	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofileWXxblZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51868/devtools/browser/f10816a7-d663-4a28-8438-765e6d1e2695
+JavaScript warning: https://www.amazon.com/ line 2190 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676271463036	Marionette	INFO	Stopped listening on port 51876
+Dynamically enable window occlusion 1
+console.error: "Could not write session state file " "out of memory" (void 0)
+[GFX1-]: Failed to get descriptor for recorded texture.
+1676271834524	geckodriver	INFO	Listening on 127.0.0.1:51968
+1676271837575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51969" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofileqvHRJw"
+1676271838639	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676271838664	Marionette	INFO	Listening on port 51976
+Read port: 51976
+WebDriver BiDi listening on ws://127.0.0.1:51969
+1676271839031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofileqvHRJw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51969/devtools/browser/ddd2292f-3d36-49cd-8ddc-00f427e0ac16
+JavaScript warning: https://www.amazon.com/ line 2187 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676271848364	Marionette	INFO	Stopped listening on port 51976
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1676272074538	geckodriver	INFO	Listening on 127.0.0.1:52077
+1676272077550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52078" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofileKvo1M3"
+1676272078154	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676272078167	Marionette	INFO	Listening on port 52085
+Read port: 52085
+WebDriver BiDi listening on ws://127.0.0.1:52078
+1676272078360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofileKvo1M3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52078/devtools/browser/e4241b4c-1f57-42af-a6c7-d4375013c3e9
+JavaScript warning: https://www.amazon.com/ line 2198 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fr2tM3cMqKf7o-hgvg-GAlWS1ShJQQMk61KbxyC8hNw.js line 2 > eval line 7106 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676272087065	Marionette	INFO	Stopped listening on port 52085
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1676277174772	geckodriver	INFO	Listening on 127.0.0.1:52812
+1676277177820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52813" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofilevyT9X4"
+1676277178665	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676277178677	Marionette	INFO	Listening on port 52821
+Read port: 52821
+WebDriver BiDi listening on ws://127.0.0.1:52813
+1676277178903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofilevyT9X4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52813/devtools/browser/ab608296-4e12-4f7e-acd1-db246cf58585
+JavaScript warning: https://www.amazon.com/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=525312, y=524800, w=580, h=512)
+[GFX1-]: Handling webrender error 4
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: GFX: D3D11 lock mutex abandoned
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: Handling webrender error 2
+[GFX1-]: Fallback SW-WR + D3D11 to SW-WR
+1676277494881	geckodriver	INFO	Listening on 127.0.0.1:53040
+1676277497921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53041" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofileLIpsf9"
+1676277498577	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676277498585	Marionette	INFO	Listening on port 53049
+Read port: 53049
+WebDriver BiDi listening on ws://127.0.0.1:53041
+1676277498784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofileLIpsf9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53041/devtools/browser/5a1d4836-c570-4af9-b168-f8449d351247
+JavaScript warning: https://www.amazon.com/ line 2022 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676277591179	geckodriver	INFO	Listening on 127.0.0.1:53237
+1676277594232	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53238" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofile2PbGXQ"
+1676277595020	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676277595035	Marionette	INFO	Listening on port 53245
+Read port: 53245
+WebDriver BiDi listening on ws://127.0.0.1:53238
+1676277595251	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofile2PbGXQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53238/devtools/browser/80049c8e-315e-4435-af4c-c6afd84c90bf
+<jemalloc>: (malloc) Error initializing arena
+out of memory: 0x00000000000005D2 bytes requested
+Hit MOZ_CRASH([unhandlable oom] Failed to allocate new chunk during GC) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1300
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=524288, y=524288, w=1024, h=512)
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=525312, y=524288, w=580, h=512)
+#01: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x47d8efa]
+#02: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x47db7b2]
+#03: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x1d78ce9]
+#04: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x1d7f090]
+#05: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x140893f]
+#06: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x1d61a55]
+#07: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x13f87e1]
+#08: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x1d5a1a0]
+#09: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x13f928e]
+#10: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x13f99cc]
+#11: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x13f41df]
+#12: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x48cb6c1]
+#13: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x1d27062]
+#14: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x1d01c56]
+#15: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x17ec567]
+#16: ???[C:\Program Files\Mozilla Firefox\xul.dll +0xcff411]
+#17: ???[C:\Program Files\Mozilla Firefox\xul.dll +0xc95d0]
+#18: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x1816769]
+#19: ???[C:\Program Files\Mozilla Firefox\xul.dll +0xc90b4]
+#20: ???[C:\Program Files\Mozilla Firefox\xul.dll +0xc8dce]
+#21: ???[C:\Program Files\Mozilla Firefox\xul.dll +0xc8609]
+#22: ???[C:\Program Files\Mozilla Firefox\xul.dll +0xc7f12]
+#23: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x18574b4]
+#24: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x1b5d73b]
+#25: ???[C:\Program Files\Mozilla Firefox\xul.dll +0xc7ddf]
+#26: ???[C:\Program Files\Mozilla Firefox\xul.dll +0xc7a20]
+#27: ???[C:\Program Files\Mozilla Firefox\xul.dll +0xbda73b]
+#28: ???[C:\Program Files\Mozilla Firefox\xul.dll +0xc0a7c]
+#29: ???[C:\Program Files\Mozilla Firefox\xul.dll +0xc07cf]
+#30: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x124298d]
+#31: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x123d333]
+#32: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x123cb10]
+#33: ???[C:\Program Files\Mozilla Firefox\xul.dll +0xa70b39]
+#34: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x16ea23]
+#35: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x9492e6]
+#36: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x955815]
+#37: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x99c522]
+#38: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x9a882d]
+#39: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x1a902ab]
+#40: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x1a8f6d5]
+#41: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x1a92192]
+#42: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x17dd036]
+#43: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x1abb4e9]
+#44: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x9d18cf]
+#45: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x1f36e]
+#46: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x16e5b8]
+#47: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x16d447]
+#48: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x1315f9b]
+#49: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x9d18cf]
+#50: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x1f36e]
+#51: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x13158ad]
+#52: GetNtLoaderAPI[C:\Program Files\Mozilla Firefox\firefox.exe +0x1eab4]
+#53: IsSandboxedProcess[C:\Program Files\Mozilla Firefox\firefox.exe +0x2cad8]
+#54: BaseThreadInitThunk[C:\WINDOWS\System32\KERNEL32.DLL +0x126bd]
+#55: RtlUserThreadStart[C:\WINDOWS\SYSTEM32\ntdll.dll +0x5dfb8]
+[GFX1-]: Handling webrender error 4
+[GFX1-]: Fallback WR to SW-WR + D3D11
+Hit MOZ_CRASH([unhandlable oom] Failed to allocate new chunk during GC) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1300
+#01: JOG_RegisterPing[C:\Program Files\Mozilla Firefox\xul.dll +0x47d8efa]
+#02: JOG_RegisterPing[C:\Program Files\Mozilla Firefox\xul.dll +0x47db7b2]
+#03: GIFFT_TimingDistributionCancel[C:\Program Files\Mozilla Firefox\xul.dll +0x1d78ce9]
+#04: GIFFT_TimingDistributionCancel[C:\Program Files\Mozilla Firefox\xul.dll +0x1d7f090]
+#05: GIFFT_TimingDistributionCancel[C:\Program Files\Mozilla Firefox\xul.dll +0x140893f]
+#06: GIFFT_TimingDistributionCancel[C:\Program Files\Mozilla Firefox\xul.dll +0x1d61a55]
+#07: GIFFT_TimingDistributionCancel[C:\Program Files\Mozilla Firefox\xul.dll +0x13f87e1]
+#08: GIFFT_TimingDistributionCancel[C:\Program Files\Mozilla Firefox\xul.dll +0x1d5a1a0]
+#09: GIFFT_TimingDistributionCancel[C:\Program Files\Mozilla Firefox\xul.dll +0x13f928e]
+#10: GIFFT_TimingDistributionCancel[C:\Program Files\Mozilla Firefox\xul.dll +0x13f99cc]
+#11: GIFFT_TimingDistributionCancel[C:\Program Files\Mozilla Firefox\xul.dll +0x13f41df]
+#12: XRE_GetBootstrap[C:\Program Files\Mozilla Firefox\xul.dll +0xef14a4]
+#13: XRE_GetBootstrap[C:\Program Files\Mozilla Firefox\xul.dll +0x83272c]
+#14: XRE_GetBootstrap[C:\Program Files\Mozilla Firefox\xul.dll +0xeebcb5]
+#15: XRE_GetBootstrap[C:\Program Files\Mozilla Firefox\xul.dll +0x191cc0]
+#16: XRE_GetBootstrap[C:\Program Files\Mozilla Firefox\xul.dll +0xef0668]
+#17: XRE_GetBootstrap[C:\Program Files\Mozilla Firefox\xul.dll +0x1911a2]
+#18: XRE_GetBootstrap[C:\Program Files\Mozilla Firefox\xul.dll +0xeeac7a]
+#19: GIFFT_TimingDistributionCancel[C:\Program Files\Mozilla Firefox\xul.dll +0x17dd94f]
+#20: GIFFT_TimingDistributionCancel[C:\Program Files\Mozilla Firefox\xul.dll +0x17c9dff]
+#21: XRE_GetBootstrap[C:\Program Files\Mozilla Firefox\xul.dll +0x9d18cf]
+#22: XRE_GetBootstrap[C:\Program Files\Mozilla Firefox\xul.dll +0x1f36e]
+#23: XRE_GetBootstrap[C:\Program Files\Mozilla Firefox\xul.dll +0x8348b7]
+#24: ???[C:\Program Files\Mozilla Firefox\nss3.dll +0x73a1c]
+#25: ???[C:\Program Files\Mozilla Firefox\nss3.dll +0x88f71]
+#26: recalloc[C:\WINDOWS\System32\ucrtbase.dll +0x29363]
+#27: BaseThreadInitThunk[C:\WINDOWS\System32\KERNEL32.DLL +0x126bd]
+#28: mozilla::mscom::detail::EndProcessRuntimeInit[C:\Program Files\Mozilla Firefox\mozglue.dll +0x1fb28]
+#29: RtlUserThreadStart[C:\WINDOWS\SYSTEM32\ntdll.dll +0x5dfb8]
+1676278073855	geckodriver	INFO	Listening on 127.0.0.1:50294
+1676278076939	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50295" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofilexI4kII"
+1676278077632	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676278077643	Marionette	INFO	Listening on port 50302
+Read port: 50302
+WebDriver BiDi listening on ws://127.0.0.1:50295
+1676278077849	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofilexI4kII\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50295/devtools/browser/f477b8c6-4e40-440a-9e97-b52e41c1944c
+JavaScript warning: https://www.amazon.com/ line 2022 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676309282675	Marionette	INFO	Stopped listening on port 50302
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50486" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofileadQwni"
+1676278244595	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676278244603	Marionette	INFO	Listening on port 50493
+Read port: 50493
+WebDriver BiDi listening on ws://127.0.0.1:50486
+1676278244769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofileadQwni\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50486/devtools/browser/1af4efcd-aa67-488c-af44-11bb6633fed7
+JavaScript warning: https://www.amazon.com/ line 2035 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676309285464	Marionette	INFO	Stopped listening on port 50493
+Dynamically enable window occlusion 1
+1676575369803	geckodriver	INFO	Listening on 127.0.0.1:51217
+1676575372894	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51218" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofileUkHaPw"
+1676575373786	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676575373799	Marionette	INFO	Listening on port 51230
+Read port: 51230
+WebDriver BiDi listening on ws://127.0.0.1:51218
+1676575374052	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofileUkHaPw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51218/devtools/browser/93a5d18f-4cb1-44b6-af37-a9d8c168d139
+1676575683690	Marionette	INFO	Stopped listening on port 51230
+Dynamically enable window occlusion 1
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new RemoteSettingsWorkerError("Error: Can't import when we've started shutting down.", "resource://services-settings/RemoteSettingsWorker.jsm", 48))
+Marionette enabled
+Dynamically enable window occlusion 0
+1676575384776	Marionette	INFO	Listening on port 51275
+Read port: 51275
+WebDriver BiDi listening on ws://127.0.0.1:51258
+1676575385063	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofiletNjaNf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51258/devtools/browser/e9251232-0444-43b4-b7b5-c41367c9d60a
+1676575667493	Marionette	INFO	Stopped listening on port 51275
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51360" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofileASF5sX"
+1676575603300	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676575603308	Marionette	INFO	Listening on port 51367
+Read port: 51367
+WebDriver BiDi listening on ws://127.0.0.1:51360
+1676575603532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofileASF5sX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51360/devtools/browser/daf9c352-2c50-4283-ae79-a817552c832f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript warning: https://www.amazon.com/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676575636777	Marionette	INFO	Stopped listening on port 51367
+Dynamically enable window occlusion 1
+1676575640315	geckodriver	INFO	Listening on 127.0.0.1:51510
+1676575643351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51511" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofileGmuRCD"
+1676575644001	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676575644011	Marionette	INFO	Listening on port 51518
+Read port: 51518
+WebDriver BiDi listening on ws://127.0.0.1:51511
+1676575644244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofileGmuRCD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51511/devtools/browser/d804646e-8657-4085-91ce-8d08d08eb3d4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript warning: https://www.amazon.com/ line 2189 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+1676575661513	Marionette	INFO	Stopped listening on port 51518
+Dynamically enable window occlusion 1
+1676576736738	geckodriver	INFO	Listening on 127.0.0.1:51976
+1676576739800	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51977" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofilenMJ27c"
+1676576740482	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676576740492	Marionette	INFO	Listening on port 51984
+Read port: 51984
+WebDriver BiDi listening on ws://127.0.0.1:51977
+1676576740721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofilenMJ27c\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51977/devtools/browser/53d94c99-8330-4af1-aa23-b7181527b7a6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript warning: https://www.amazon.com/ line 2186 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\sajja\AppData\Local\Temp\rust_mozprofilenMJ27c\bookmarkbackups\bookmarks-2023-02-16_11_SwLfGJcB+ZLSeKr2MRZMnA==.jsonlz4) because it does not exist
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\sajja\AppData\Local\Temp\rust_mozprofilenMJ27c\bookmarkbackups\bookmarks-2023-02-21_11_SwLfGJcB+ZLSeKr2MRZMnA==.jsonlz4) because it does not exist
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1677095535034	Marionette	INFO	Stopped listening on port 51984
+Dynamically enable window occlusion 1
+pped listening on port 53717
+Dynamically enable window occlusion 1
+1676577663589	geckodriver	INFO	Listening on 127.0.0.1:54026
+1676577666650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54027" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofileacTed1"
+1676577668017	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676577668035	Marionette	INFO	Listening on port 54050
+Read port: 54050
+WebDriver BiDi listening on ws://127.0.0.1:54027
+1676577668437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sajja\\AppData\\Local\\Temp\\rust_mozprofileacTed1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54027/devtools/browser/ad70329c-ec1b-4ab7-a206-04736081b729
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript warning: https://www.amazon.com/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676577781445	Marionette	INFO	Stopped listening on port 54050
+Dynamically enable window occlusion 1
