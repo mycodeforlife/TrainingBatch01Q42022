@@ -25,13 +25,13 @@ class TestClass:
     MaxTimeOut = 30
     browser_open = webdriver.Firefox()
 
-    @pytest.mark.demo
+    @pytest.mark.demo1
     def test_case1(self):
-        input_data = read_input(1)
-        self.browser_open.get("https://amazon.com")
+        testcase_id = read_input(1)
+        self.browser_open.get(testcase_id["URL"])
         browser_title = self.browser_open.title
         print(browser_title)
-        title = "Amazon.com"
+        title = testcase_id["Expected_Results"]
         assert title in browser_title
 
     @pytest.mark.demo

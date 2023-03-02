@@ -1,4 +1,5 @@
-TestCaseID,URL,Expected_Results
-1,https:\\amazon.com,Amazon.com
-2,https:\\ebay.com,Ebay.com
-3,https:\\Facebook.com,facebook.com
+TestCaseID,Descripton,URL,Expected_Results
+1,verify page title https:\\amazon.com,Amazon.com
+2,verify page title https:\\ebay.com,Ebay.com
+3,verify page title https:\\Facebook.com,facebook.com
+4,verify page title https:\\Bestbuy.com,bestbuy.com
