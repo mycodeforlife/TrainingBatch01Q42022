@@ -1,0 +1,5 @@
+Test_Case,Description,input,Expected_Result
+1,Verify the URL of the Kohl's,https://www.kohls.com,"Kohl's | Shop Clothing, Shoes, Home, Kitchen, Bedding, Toys & More"
+2,Click sign-in/Join and open the account page,https://www.kohls.com,Account
+3,Enter a Valid Email address,"testkohls@gmail.com,1234567891,Yogitha,Kota,01/01/1993,2@Testyh,2@Testyh",Able to enter a valid Email id
+

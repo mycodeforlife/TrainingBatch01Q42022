@@ -1,0 +1,4 @@
+Test_Case,Description,Input,Expected_Result
+1,verify the URL of the walgreens page title,"https://www.walgreens.com","Walgreens: Pharmacy, Health & Wellness, Photo & More for You"
+2,Click Account and open the sign in or Register page,"https://www.walgreens.com",open the create your Account page
+3,Enter the valid details,"Yogitha,kota,testwal20@gmail.com,Testyh23,'7579388012',23464",Able to enter valid details
