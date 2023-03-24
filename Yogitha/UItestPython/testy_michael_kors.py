@@ -5,6 +5,7 @@ from time import sleep
 import pytest
 import csv
 from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
 
 
 def set_registration_data():
@@ -104,17 +105,19 @@ def test_case2():
     # browser_me.find_element(By.XPATH, "//*[@id='create_account']/div/div[10]/div/div/div/label").click()
     browser_me.find_element(By.ID, "password").send_keys(regAccount.password)
     browser_me.find_element(By.ID, "confirm_password").send_keys(regAccount.confirm_Password)
-    browser_me.find_element(By.XPATH, "/html/body/div[1]/div[4]/div[2]/div[3]/div/div[3]/form/div/div[11]/div/input[5]").click()
+    browser_me.find_element(By.TAG_NAME, 'body').send_keys(Keys.PAGE_DOWN)
     sleep(30)
+    browser_me.find_element(By.XPATH,
+                            "/html/body/div[1]/div[4]/div[2]/div[3]/div/div[3]/form/div/div[11]/div/input[5]").click()
+
     # browser_me.quit()
 
 
-
-
-
-
-
-
-
-
-
+@pytest.mark.demo2
+def test_case3():
+    browser_me = webdriver.Edge()
+    browser_me.get("https://www.michaelkors.com")
+    browser_me.maximize_window()
+    browser_me.find_element(By.XPATH,
+                            "//*[@id='HeaderHambergerMenu']/div[5]/div[1]/div[2]/div/ul/li[5]/a/span/span[1]")
+    sleep(30)
