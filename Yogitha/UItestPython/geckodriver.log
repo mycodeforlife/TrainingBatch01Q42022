@@ -1,0 +1,168 @@
+1677472076741	geckodriver	INFO	Listening on 127.0.0.1:59064
+1677472079856	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59065" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\damac\\AppData\\Local\\Temp\\rust_mozprofileTLo4mj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677472080367	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677472080377	Marionette	INFO	Listening on port 59075
+Read port: 59075
+WebDriver BiDi listening on ws://127.0.0.1:59065
+1677472080521	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\damac\\AppData\\Local\\Temp\\rust_mozprofileTLo4mj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59065/devtools/browser/d348f315-2097-4f09-89de-194fa75939fa
+JavaScript warning: https://www.kohls.com/snb/media/javascript/deploy/environ3.js, line 229: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.kohls.com/LqE1Q_17DgKgp/mqIj/1dTGsFzoDk/cuuwtct1uYf5/GjsCUlM/THJaRzM/9Fjs, line 1: unreachable code after return statement
+JavaScript warning: https://www.kohls.com/LqE1Q_17DgKgp/mqIj/1dTGsFzoDk/cuuwtct1uYf5/GjsCUlM/THJaRzM/9Fjs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.kohls.com/LqE1Q_17DgKgp/mqIj/1dTGsFzoDk/cuuwtct1uYf5/GjsCUlM/THJaRzM/9Fjs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 19404, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 4530 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 3185 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677472360676	Marionette	INFO	Stopped listening on port 59075
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1677472671866	geckodriver	INFO	Listening on 127.0.0.1:51601
+1677472674961	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51602" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\damac\\AppData\\Local\\Temp\\rust_mozprofileTHur0b"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677472675561	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677472675572	Marionette	INFO	Listening on port 51609
+Read port: 51609
+WebDriver BiDi listening on ws://127.0.0.1:51602
+1677472675733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\damac\\AppData\\Local\\Temp\\rust_mozprofileTHur0b\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51602/devtools/browser/89f722cb-2ed7-4f0c-8ca2-eafb5b7a5303
+1677472678584	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.kohls.com/snb/media/javascript/deploy/environ3.js, line 229: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.kohls.com/LqE1Q_17DgKgp/mqIj/1dTGsFzoDk/cuuwtct1uYf5/GjsCUlM/THJaRzM/9Fjs, line 1: unreachable code after return statement
+JavaScript warning: https://www.kohls.com/LqE1Q_17DgKgp/mqIj/1dTGsFzoDk/cuuwtct1uYf5/GjsCUlM/THJaRzM/9Fjs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.kohls.com/LqE1Q_17DgKgp/mqIj/1dTGsFzoDk/cuuwtct1uYf5/GjsCUlM/THJaRzM/9Fjs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 1409 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 5952 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677473300840	Marionette	INFO	Stopped listening on port 51609
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60022" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\damac\\AppData\\Local\\Temp\\rust_mozprofile7NmRPc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677472825898	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677472825909	Marionette	INFO	Listening on port 60041
+Read port: 60041
+WebDriver BiDi listening on ws://127.0.0.1:60022
+1677472826060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\damac\\AppData\\Local\\Temp\\rust_mozprofile7NmRPc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60022/devtools/browser/8e10a525-529f-4ea8-872e-ff36a01e71bc
+1677472829305	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+JavaScript warning: https://www.kohls.com/snb/media/javascript/deploy/environ3.js, line 229: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.kohls.com/LqE1Q_17DgKgp/mqIj/1dTGsFzoDk/cuuwtct1uYf5/GjsCUlM/THJaRzM/9Fjs, line 1: unreachable code after return statement
+JavaScript warning: https://www.kohls.com/LqE1Q_17DgKgp/mqIj/1dTGsFzoDk/cuuwtct1uYf5/GjsCUlM/THJaRzM/9Fjs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.kohls.com/LqE1Q_17DgKgp/mqIj/1dTGsFzoDk/cuuwtct1uYf5/GjsCUlM/THJaRzM/9Fjs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 6977 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 5229 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677473306245	Marionette	INFO	Stopped listening on port 60041
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+ebugging-port" "53592" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\damac\\AppData\\Local\\Temp\\rust_mozprofilee8deaD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677473200156	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677473200177	Marionette	INFO	Listening on port 53599
+Read port: 53599
+WebDriver BiDi listening on ws://127.0.0.1:53592
+1677473200481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\damac\\AppData\\Local\\Temp\\rust_mozprofilee8deaD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53592/devtools/browser/3f7db070-d458-47c8-976d-9085c3fb00c9
+1677473204579	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+JavaScript warning: https://www.kohls.com/snb/media/javascript/deploy/environ3.js, line 229: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.kohls.com/LqE1Q_17DgKgp/mqIj/1dTGsFzoDk/cuuwtct1uYf5/GjsCUlM/THJaRzM/9Fjs, line 1: unreachable code after return statement
+JavaScript warning: https://www.kohls.com/LqE1Q_17DgKgp/mqIj/1dTGsFzoDk/cuuwtct1uYf5/GjsCUlM/THJaRzM/9Fjs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.kohls.com/LqE1Q_17DgKgp/mqIj/1dTGsFzoDk/cuuwtct1uYf5/GjsCUlM/THJaRzM/9Fjs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 1376 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 6877 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677473302972	Marionette	INFO	Stopped listening on port 53599
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 59260, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+1677473589950	geckodriver	INFO	Listening on 127.0.0.1:61544
+1677473593056	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61545" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\damac\\AppData\\Local\\Temp\\rust_mozprofilem9r2tA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677473593593	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677473593602	Marionette	INFO	Listening on port 61553
+Read port: 61553
+WebDriver BiDi listening on ws://127.0.0.1:61545
+1677473593759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\damac\\AppData\\Local\\Temp\\rust_mozprofilem9r2tA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61545/devtools/browser/ae89d540-e4ad-40d1-8bf5-0cfb6fb91457
+JavaScript warning: https://www.kohls.com/snb/media/javascript/deploy/environ3.js, line 229: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.kohls.com/LqE1Q_17DgKgp/mqIj/1dTGsFzoDk/cuuwtct1uYf5/GjsCUlM/THJaRzM/9Fjs, line 1: unreachable code after return statement
+JavaScript warning: https://www.kohls.com/LqE1Q_17DgKgp/mqIj/1dTGsFzoDk/cuuwtct1uYf5/GjsCUlM/THJaRzM/9Fjs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.kohls.com/LqE1Q_17DgKgp/mqIj/1dTGsFzoDk/cuuwtct1uYf5/GjsCUlM/THJaRzM/9Fjs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 3370 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 5949 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677473627387	Marionette	INFO	Stopped listening on port 61553
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1677473641602	geckodriver	INFO	Listening on 127.0.0.1:62519
+1677473644671	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62520" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\damac\\AppData\\Local\\Temp\\rust_mozprofiledr8Aas"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677473645062	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677473645069	Marionette	INFO	Listening on port 62527
+Read port: 62527
+WebDriver BiDi listening on ws://127.0.0.1:62520
+1677473645209	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\damac\\AppData\\Local\\Temp\\rust_mozprofiledr8Aas\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62520/devtools/browser/2cc85460-4394-4ac6-a320-dc66adfc632a
+JavaScript warning: https://www.kohls.com/snb/media/javascript/deploy/environ3.js, line 229: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.kohls.com/LqE1Q_17DgKgp/mqIj/1dTGsFzoDk/cuuwtct1uYf5/GjsCUlM/THJaRzM/9Fjs, line 1: unreachable code after return statement
+JavaScript warning: https://www.kohls.com/LqE1Q_17DgKgp/mqIj/1dTGsFzoDk/cuuwtct1uYf5/GjsCUlM/THJaRzM/9Fjs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.kohls.com/LqE1Q_17DgKgp/mqIj/1dTGsFzoDk/cuuwtct1uYf5/GjsCUlM/THJaRzM/9Fjs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 6228 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 5164 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1677475261024	Marionette	INFO	Stopped listening on port 62527
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+host" "-no-remote" "-profile" "C:\\Users\\damac\\AppData\\Local\\Temp\\rust_mozprofileWZSvOM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677473929728	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677473929736	Marionette	INFO	Listening on port 59981
+WebDriver BiDi listening on ws://127.0.0.1:59974
+Read port: 59981
+1677473929905	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\damac\\AppData\\Local\\Temp\\rust_mozprofileWZSvOM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59974/devtools/browser/76441941-fc0e-428b-aed3-42787a90cbfc
+1677473953942	Marionette	INFO	Stopped listening on port 59981
+Dynamically enable window occlusion 1
+1677474049330	geckodriver	INFO	Listening on 127.0.0.1:60048
+1677474052408	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60049" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\damac\\AppData\\Local\\Temp\\rust_mozprofile38VtVf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677474052771	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677474052777	Marionette	INFO	Listening on port 60056
+Read port: 60056
+WebDriver BiDi listening on ws://127.0.0.1:60049
+1677474052936	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\damac\\AppData\\Local\\Temp\\rust_mozprofile38VtVf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60049/devtools/browser/5abb308f-1b8a-4d4e-adac-7be56aec0dd8
+JavaScript warning: https://www.kohls.com/snb/media/javascript/deploy/environ3.js, line 229: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.kohls.com/LqE1Q_17DgKgp/mqIj/1dTGsFzoDk/cuuwtct1uYf5/GjsCUlM/THJaRzM/9Fjs, line 1: unreachable code after return statement
+JavaScript warning: https://www.kohls.com/LqE1Q_17DgKgp/mqIj/1dTGsFzoDk/cuuwtct1uYf5/GjsCUlM/THJaRzM/9Fjs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.kohls.com/LqE1Q_17DgKgp/mqIj/1dTGsFzoDk/cuuwtct1uYf5/GjsCUlM/THJaRzM/9Fjs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 381 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 5760 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 350 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1677475259267	Marionette	INFO	Stopped listening on port 60056
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.

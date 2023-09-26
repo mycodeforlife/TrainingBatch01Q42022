@@ -1,0 +1,21 @@
+TestCaseID,Description,URL,Expected_Results
+1,verify Log to correct site by page title,https://target.com,Target
+2,Go to landing Page page,XPATH,/html/body/div[1]/div[2]/div[1]/div[1]/div[2]/div/nav/a[4]/div/img
+3,Click on the Sign_IN icon,ACTION,click()
+4,Go to landing Page page,XPATH,"//*[@id=""listaccountNav-createAccount""]/a"
+5,Click on the Create user icon,ACTION,.click()
+6,LOAD PAGE,WAIT,10
+7,SEARCH TEXT BOX,ID,firstname
+8,Enter value for the Firstname,ENTER_VALUE,Rashi
+9,SEARCH TEXT BOX,ID,lastname
+10,Enter value for the Lastname,ENTER_VALUE,Mehrotra
+11,Mobile Phone Number,ID,phone
+12,Mobile Phone Number is ,ENTER_VALUE,2064464518
+13,Create Password,ID,password
+14,Create Password ,ENTER_VALUE,Arth@123
+15,Enter email address in email field,ID,username
+16,Email value is ,ENTER_VALUE,rashi.khanna23@gmail.com
+17,SEARCH submit button,ID,createAccount
+18,C0on the Create Account button,ACTION,.click()
+19,SEARCH Email warning,ID,username--ErrorMessage
+20,Validate if Email warning exist,VALIDATE,Please enter your email

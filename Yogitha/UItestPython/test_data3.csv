@@ -1,0 +1,5 @@
+Test_Case,Description,Input,Expected_Result
+1,verify the URL of the michael_kor's page title,"https://www.michaelkors.com","Michael Kors USA: Designer Handbags, Clothing, Menswear, Watches, Shoes, And More"
+2,Click sign-in/Join and open the account page,"https://www.michaelkors.com",open createAccount page
+3,Enter the valid details,"Yogitha,kota,testkors@gmail.com,Testyh23,Testyh23,23464,07,02,Female",Able to enter valid details
+

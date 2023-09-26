@@ -1,0 +1,4 @@
+Test_Case,Description,url,ExpectedValue
+
+1,verify amazon page title,https://www.amazon.com, Amazon
+2,verify kohl's page title,https://www.kohls.com, "Kohl's | Shop Clothing, Shoes, Home, Kitchen, Bedding, Toys & More"
